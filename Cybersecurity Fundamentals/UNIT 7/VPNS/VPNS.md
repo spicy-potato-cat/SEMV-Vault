@@ -4,8 +4,12 @@
 
 ***Types of VPN techs defined***:
 1) Trusted VPN (Legacy VPN)
+	Uses leased circuits from service provider and uses packet switching.
+		Organization must trust the service provider
 2) Secure VPN
+	Uses security protocols like IPSEC to encrypt traffic
 3) Hybrid VPN
+	 Both
 
 ### **Goals of a VPN:**
 1) Encapsulation 
@@ -33,16 +37,7 @@
 * These servers act as encryption points, encrypting all the traffic that traverses through the network
 * In this mode, everything included with IP headers is encrypted. Meaning public network devices like routers and firewalls will be only able read IP addresses of the tunnel servers not the actual specific device which has sent the packets/frames.
 
-# SSH
 
-**Definition** - SSH (Secure Shell Protocol) is a method for secure remote logins from one computer to another, allowing remote computer to execute commands on the shell of the destination computer.
-
-***Components:*** 
-1) SSH-TRANS: SSH Transport Layer Protocol provides server authentication, confidentiality, integrity
-2) SSH-USERAUTH: SSH User Authentication Protocol provides client side authentication and works on Transport layer of TCP/IP layer
-3) SSH-CONNECT: SSH Connection Protocol multiplexes the encrypted tunnel into several logic channels. It runs over user authentication protocol.
-
-<img src="ed998b2e-fbc8-4c3c-b339-eca5abd85ce3_1289x1536 5.gif" width="450" height="600">
 
 
 

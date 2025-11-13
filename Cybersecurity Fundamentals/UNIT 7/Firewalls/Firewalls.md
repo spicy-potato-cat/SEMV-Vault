@@ -25,7 +25,6 @@ A vague look at the packets:
 
 #### Types of Packet Filtering FW
 There are **3 types**.
-
 - Static Packet Filtering
 	- Requires Rules to be developed and installed with the firewall
 	- Any changes are to be done by human intervention
@@ -101,12 +100,12 @@ Limitations:
 - Complicated to implement ACL
 
 ---
-## Screen Host Architecture
+### Screen Host Architecture
 Method : Combines Packet Filtering and application proxy server.
 Architecture : Packet filtering router is the method to deny or allow request. Proxy Server is the bastion. 
 Benefits : Caching of frequently accessed pages
 
-## Screened Subnet Architecture With DMZ
+### Screened Subnet Architecture With DMZ
 Dominant architecture in todays network. Basically a [[#Screen Host Architecture| Screened Host Architecture]] with a DMZ. 
 
 Basically the webserver or the front endpoints are going to be exposed to the users. The DMZ sits between two firewalls and the internal network sits after the internal firewall. 
@@ -114,7 +113,18 @@ Refer Diagram
 
 
 
-# Best Practices for Firewall
+
+
+## Eras/ Generationon
+- Generations
+	- First Generation : Static Filtering 
+	- Second Generation : Application Firewall
+	- Third Generation : Stateful Inspection
+	- Fourth Generation : Dynamic packet filtering
+	- Fifth Generation : Kernel Proxies. Windows NT.
+- These stacks are session dependent, which means that they are constructed on-the-fly when a new session request arrives at the firewall.
+
+## Best Practices for Firewall
 - All traffic from internal/trusted is allowed out. Allows member of the organization to access the services they need. Filtering and logging of outbound traffic can be implemented.
 - The firewall device is never directly accessible from the public network for configuration or management purposes.
 - Administrative access to firewall is denied to internal network as well. ( Excluding ADMINS & Preferably )
@@ -122,4 +132,32 @@ Refer Diagram
 - ICMP Data should be denied on external interfaces. Example ping services. ICMP is a common method for hacker reconnaissance and should be turned off to prevent snooping.
 - Telnet access Outwards to Inwards should be blocked from all Public Net
 - Telnet Access to DNS should be blocked to prevent zone transfers
-- 
+
+
+**Dictionary Attacks**
+
+- **Method:** Trial-and-error using a list of potential passwords.
+- **Off-line Attack:** Attacker knows the complementation function ($f$) and the stored complementary information ($C$'s), repeatedly trying different guesses ($g$) until the password is guessed.
+    - _Examples:_ `crack`, `john-the-ripper`.
+- **On-line Attack:** Attacker accesses the authentication functions ($L$) and tries guesses ($g$) until one succeeds.
+    - _Example:_ Trying to log in by guessing a password.
+
+### Andersons
+
+The components of Anderson's formula are defined as follows:
+
+- **P:** The **probability** of guessing a password in a specified period of time.
+- **G:** The **number of guesses tested in 1 time unit**.
+- **T:** The **number of time units**.
+- **N:** The **number of possible passwords**. $N$ is also equal to $|A|^s$, where $A$ is the set of strings making up passwords, and $s$ is the length of the password.
+- The relationship is expressed as: **$P \geq TG/N$**.
+
+This formula is typically applied in the context of analyzing the minimum required password length to resist dictionary or brute-force attacks over a given period.
+
+For instance, an example using this formula seeks to find the minimum password length ($s$) needed if:
+
+1. Passwords are drawn from a 96-character alphabet (implying the size of the set $A$ is 96).
+2. The system can test $10^4$ guesses per second ($G = 10^4$).
+3. The probability of success ($P$) is set to 0.5 over a 365-day period ($T = 365 \times 24 \times 60 \times 60$ seconds).
+
+The solution calculates $N \geq TG/P = (365 \times 24 \times 60 \times 60) \times 10^4 / 0.5 \approx 6.31 \times 10^{11}$. By then choosing the length ($s$) such that the sum of possible passwords ($\Sigma_{j=0}^{s} 96^j$) is greater than or equal to $N$, the result suggests that passwords must be at least 6 characters long ($s \geq 6$).

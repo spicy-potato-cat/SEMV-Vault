@@ -39,11 +39,11 @@ Unit 6
 	[[Role based Access control list]]
 Unit 7 
 	[[Firewalls]]
-	[[DMZ]]
-	[[Policies on Proxies]]
+	[[DMZ]] !
+	[[Policies on Proxies]] !
 	[[NAT]]
 	[[IDPS]]
-	**[[VPNS, SSH]]**
+	**[[VPNS]]**
 	**[[SIEM]]**
 
 
@@ -56,3 +56,7 @@ Unit 4: 5-10 marks
 Unit 5: 5-10 marks
 Unit 6: 20-30 marks
 Unit 7: 25-35 marks
+
+## References
+
+[1]. [Security in Computing](https://eopcw.com/assets/stores/Computer%20Security/lecturenote_1704978481security-in-computing-5-e.pdf)
