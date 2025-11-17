@@ -12,7 +12,7 @@
 
 **Message User Agent:** The other receiver end.
 
-![[Pasted image 20251112114937.png| 600]]
+![[IMG-20251117143944739.png| 600]]
 
 
 ## Email Protocols

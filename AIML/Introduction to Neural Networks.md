@@ -6,7 +6,7 @@ Similar to human brains ANN also have neurons (nodes) that are linked to multipl
 
 #### Function
 ANN learn from non-linear and complex relationships between input and output variables.
-![[Pasted image 20251115133300.png|600]]
+![[IMG-20251117143944511.png|600]]
 #### Components of a Neural Network
 1. Neurons: The basic units that receive inputs, each neuron is governed by an activation function and threshold 
 2. Synapses: These are the connections between neurons(nodes), these synapses are regulated by weights N 

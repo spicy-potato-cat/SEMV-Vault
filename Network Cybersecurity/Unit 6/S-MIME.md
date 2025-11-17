@@ -39,7 +39,7 @@ Sequence
 
 
 ### Signing and Encrypting the Mail
-![[Pasted image 20251112130237.png| 600]]
+![[IMG-20251117143944809.png| 600]]
 
 ### Compression
 * S/MIME can **compress messages** to save transmission and storage space.

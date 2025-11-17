@@ -8,4 +8,4 @@ Process:
 3. Sending Domain Server validates the private key queried against the list of public keys of the authorized users
 4. Based on the returned values from the Domain Server receiving server may accept/reject or perform appropriate actions to the mail
 
-![[Pasted image 20251112152212.png|600]]
+![[IMG-20251117143944675.png|600]]
