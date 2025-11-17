@@ -22,9 +22,9 @@
 
 - [[Classification vs Regression]]
 - [[Polynomial Regression]]
-- [[Linear Models: Regression and Ridge]]
+- [[Linear Models - Regression and Ridge]]
 - [[Lasso Regularization and Application]]
-- [[Regression Workflow: Preprocessing, Visualization, Training, Evaluation]]
+- [[Regression Workflow- Preprocessing, Visualization, Training, Evaluation]]
 
 #### Unit 4: Classification
 
