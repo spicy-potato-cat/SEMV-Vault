@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"3c5dac66f67dcc1e","type":"text","text":"\n![[Introduction to Mail protocols#E-mail Components]]","x":-320,"y":151,"width":800,"height":1089,"color":"6"},
+		{"id":"80288c255cee0f0d","type":"text","text":"# Two Types of Email Protocols","x":-120,"y":1400,"width":400,"height":50,"color":"6"},
+		{"id":"951833da9cd0d0e9","type":"text","text":"![[Introduction to Mail protocols#SMTP]]","x":-1600,"y":1660,"width":1260,"height":836,"color":"6"},
+		{"id":"acf539b5f396c0e0","type":"text","text":"# Mail Access Protocol","x":580,"y":1630,"width":560,"height":60,"color":"6"},
+		{"id":"36543dfeb3d7a4b5","type":"text","text":"![[Introduction to Mail protocols#POP3]]","x":-60,"y":1960,"width":554,"height":310,"color":"6"},
+		{"id":"aca2bf4215ad54fc","type":"text","text":"![[Introduction to Mail protocols#IMAP]]","x":570,"y":1960,"width":580,"height":310,"color":"6"},
+		{"id":"219a93fe1f15f4a2","type":"text","text":"![[Introduction to Mail protocols#Email Formats]]","x":740,"y":330,"width":671,"height":731,"color":"6"},
+		{"id":"d275a8d11e2518ca","type":"text","text":"# Mail Security\n","x":-45,"y":-240,"width":250,"height":130},
+		{"id":"b48eb1636c0957f4","type":"text","text":"![[Introduction to Mail protocols#E-mail Threats and E-mail Security]]\n","x":740,"y":1130,"width":653,"height":220,"color":"6"},
+		{"id":"c506cf18b29ab624","type":"text","text":"# Ways to secure Email","x":626,"y":-481,"width":314,"height":81},
+		{"id":"2193425494dea378","type":"text","text":"# PGP","x":1260,"y":-1360,"width":250,"height":60},
+		{"id":"826008faa5fb94ef","type":"text","text":"![[Pretty Good Privacy (PGP)#Flow of events]]\n","x":1700,"y":-2040,"width":642,"height":617},
+		{"id":"56c8b3a687afec73","x":1693,"y":-1299,"width":649,"height":199,"type":"text","text":"![[Pretty Good Privacy (PGP)#Key Distribution]]"}
+	],
+	"edges":[
+		{"id":"8ad39eb64b2031f9","fromNode":"d275a8d11e2518ca","fromSide":"bottom","toNode":"3c5dac66f67dcc1e","toSide":"top"},
+		{"id":"784580422d9e657b","fromNode":"3c5dac66f67dcc1e","fromSide":"bottom","toNode":"80288c255cee0f0d","toSide":"top"},
+		{"id":"54339c1a03a7b302","fromNode":"80288c255cee0f0d","fromSide":"bottom","toNode":"951833da9cd0d0e9","toSide":"top"},
+		{"id":"6240e9640d49dbf5","fromNode":"80288c255cee0f0d","fromSide":"bottom","toNode":"acf539b5f396c0e0","toSide":"top"},
+		{"id":"20808b6b62e70456","fromNode":"acf539b5f396c0e0","fromSide":"bottom","toNode":"36543dfeb3d7a4b5","toSide":"top"},
+		{"id":"af48bb8c53eb2d41","fromNode":"acf539b5f396c0e0","fromSide":"bottom","toNode":"aca2bf4215ad54fc","toSide":"top"},
+		{"id":"f674ec259224e791","fromNode":"3c5dac66f67dcc1e","fromSide":"right","toNode":"219a93fe1f15f4a2","toSide":"left"},
+		{"id":"e0ac47b3d1442366","fromNode":"3c5dac66f67dcc1e","fromSide":"right","toNode":"b48eb1636c0957f4","toSide":"left"},
+		{"id":"192b91338291652a","fromNode":"d275a8d11e2518ca","fromSide":"right","toNode":"c506cf18b29ab624","toSide":"left"},
+		{"id":"e1682887214afb1c","fromNode":"c506cf18b29ab624","fromSide":"right","toNode":"2193425494dea378","toSide":"left"},
+		{"id":"335ad250e68005b9","fromNode":"2193425494dea378","fromSide":"right","toNode":"826008faa5fb94ef","toSide":"left"},
+		{"id":"1e1dc12c1415b5b5","fromNode":"2193425494dea378","fromSide":"right","toNode":"56c8b3a687afec73","toSide":"left"}
+	]
+}
