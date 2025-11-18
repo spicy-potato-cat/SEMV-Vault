@@ -1,4 +1,48 @@
-# Supervised Learning
+# Classification
+**Goal**: Predicts **discrete outcomes** (categorical labels.
+
+### Two Types
+* **Binary Classification**
+  * Target has **two possible classes** (e.g., True/False, Yes/No, Default/No Default).
+* **Multiclass Classification**
+	-  Target has **more than two classes**.
+* **Examples / Applications**
+	* Email filtering: **spam vs non-spam**.
+	* Email security: detect **malware/viruses** without opening messages.
+	* **Voice-based security**: distinguish owner’s voice from attacker’s.
+	* **Sentiment analysis**: classify customer feedback (positive/negative).
+	* **Drug classification** into multiple categories.
+
+### Examples
+* **Common Classification Algorithms**
+  * Logistic Regression
+  * Decision Tree Classifier
+  * Support Vector Machines (SVM)
+  * Random Forest Classifier
+  * Neural Networks
+  * K-Nearest Neighbors (KNN)
+
+---
+## Regression
+* Used to **predict continuous values** (e.g., sales, salary, weight, temperature).
+* Models learn the **relation`ship between variables**, where a change in one variable affects another.
+* **Examples / Applications**
+	* Predicting **real estate prices** using location (e.g., zip code).
+	* Estimating **network security outcomes** based on deployed defense tools.
+	* Analyzing **correlations** between factors (login attempts, packet patterns) and the likelihood of security breaches or malware infections.
+	* Predicting **customer willingness to pay** for a product based on attributes like age.
+
+* **Common Regression Algorithms**
+  * Linear Regression
+  * Multivariate Regression
+  * Regression Trees
+  * Lasso Regression
+
+---
+
+		
+
+# Classification Vs Regression
 
 It is the most common type of machine learning algorithm in which machine learns under supervision
 It uses a known dataset (called training dataset) to train an algorithm with a known set of input data (called features)

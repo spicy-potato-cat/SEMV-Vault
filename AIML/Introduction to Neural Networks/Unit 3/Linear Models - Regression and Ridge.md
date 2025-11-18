@@ -1,4 +1,4 @@
-### Overview
+**### Overview
 
 Linear models are foundational tools in machine learning and statistics. They model the relationship between input features and a continuous output using a linear equation. Ridge regression extends linear regression by adding regularization to prevent overfitting.
 

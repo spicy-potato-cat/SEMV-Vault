@@ -12,11 +12,8 @@ $$ \min_\beta { \frac{1}{2n} | y - X\beta |_2^2 + \lambda | \beta |_1 } $$
 Where:
 
 - $\beta \in \mathbb{R}^p$ are the regression coefficients.
-    
 - $| y - X\beta |_2^2$ is the residual sum of squares.
-    
 - $| \beta |_1 = \sum_{j=1}^p |\beta_j|$ is the $L_1$ norm promoting sparsity.
-    
 - $\lambda \geq 0$ is the regularization parameter controlling the strength of the penalty.
     
 

@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "e505f54bb12816ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Cybersecurity/Unit 6/Pretty Good Privacy (PGP).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pretty Good Privacy (PGP)"
-            }
-          },
-          {
             "id": "22567f25cac1c816",
             "type": "leaf",
             "state": {
@@ -57,9 +43,9 @@
               "state": {
                 "file": "Network Security Electronic Mail Security Unit 6.canvas",
                 "viewState": {
-                  "x": 1699.1122188305844,
-                  "y": -1440.0686611133847,
-                  "zoom": -0.3749999453624112
+                  "x": 1598.9107960785948,
+                  "y": -579.6223179661508,
+                  "zoom": -0.5092591992866864
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -67,17 +53,108 @@
             }
           },
           {
+            "id": "e505f54bb12816ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML/Introduction to Neural Networks/Unit 6/Automatic Intrusion Detection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automatic Intrusion Detection"
+            }
+          },
+          {
             "id": "bdcb5392d1b5d7b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "AIML/_Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Index"
+            }
+          },
+          {
+            "id": "c9c1bd7e8a6aaebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML/Introduction to Neural Networks/Unit 3/Lasso Regularization and Application.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lasso Regularization and Application"
+            }
+          },
+          {
+            "id": "868563dd9e1ac0e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML/_Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Index"
+            }
+          },
+          {
+            "id": "34b0837b16c781e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic Overview of Supervised learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Overview of Supervised learning"
+            }
+          },
+          {
+            "id": "5f3da81d3d996ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML/Introduction to Neural Networks/Unit 3/Classification and Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classification and Regression"
+            }
+          },
+          {
+            "id": "29a239bba2220f5f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Supervised Model.canvas",
+                "viewState": {
+                  "x": 941.3121583022564,
+                  "y": 201.78050864356334,
+                  "zoom": -0.8333333117174517
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Supervised Model"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -109,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "adjustment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,12 +316,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "22567f25cac1c816",
+  "active": "5f3da81d3d996ae7",
   "lastOpenFiles": [
-    "Network Cybersecurity/Unit 6/Pretty Good Privacy (PGP).md",
-    "Network Cybersecurity/Network Security.md",
+    "Supervised Model.canvas",
+    "AIML/Introduction to Neural Networks/Unit 3/Classification and Regression.md",
+    "Su.md",
+    "AIML/Introduction to Neural Networks/Unit 3/Linear Models - Regression and Ridge.md",
+    "Basic Overview of Supervised learning.md",
+    "AIML/_Index.md",
+    "AIML/Introduction to Neural Networks/Unit 3/Lasso Regularization and Application.md",
+    "AIML/Introduction to Neural Networks/Unit 6/Single Perceptron Construction and Operation.md",
+    "AIML/Introduction to Neural Networks/Unit 3",
+    "AIML/Introduction to Neural Networks/Unit 6/Automatic Intrusion Detection.md",
+    "AIML/Introduction to Neural Networks/Unit 6",
+    "AIML/Introduction to Neural Networks/Unit 6/Introduction to Neural Networks.md",
+    "AIML/Introduction to Neural Networks/Unit 6/Deep Learning Basics.md",
+    "AIML/Introduction to Neural Networks/Unit 6/Generative Adversarial Networks (GAN).md",
     "Network Security Electronic Mail Security Unit 6.canvas",
     "Network Cybersecurity/Unit 6/S-MIME.md",
+    "Network Cybersecurity/Unit 6/Pretty Good Privacy (PGP).md",
+    "Network Cybersecurity/Network Security.md",
     "Network Cybersecurity/Unit 6/Introduction to Mail protocols.md",
     "Principles of Information Security by Whitman, Michael Mattord, Herbert (z-lib.org).pdf",
     "Untitled.md",
