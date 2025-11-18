@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"938c2dcfcfda0bd2","type":"text","text":"![[Basic Overview of Supervised learning]]","x":-300,"y":-240,"width":625,"height":1500},
+		{"id":"2cb05f1af9be0a46","x":602,"y":-102,"width":278,"height":60,"type":"text","text":"# Two Major Types"},
+		{"id":"2799df6fa175efdc","x":989,"y":-369,"width":250,"height":60,"type":"text","text":"![[Classification and Regression#Classification]]"}
+	],
+	"edges":[
+		{"id":"163d00f4976743f5","fromNode":"938c2dcfcfda0bd2","fromSide":"right","toNode":"2cb05f1af9be0a46","toSide":"left"},
+		{"id":"25c44672aa531306","fromNode":"2cb05f1af9be0a46","fromSide":"right","toNode":"2799df6fa175efdc","toSide":"left"}
+	]
+}

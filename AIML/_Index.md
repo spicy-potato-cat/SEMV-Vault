@@ -19,8 +19,8 @@
 - [[Dimensionality Reduction: PCA]]
 
 #### Unit 3: Supervised Learning
-
-- [[Classification vs Regression]]
+- [[Basic Overview of Supervised learning]]
+- [[Classification and Regression]]
 - [[Polynomial Regression]]
 - [[Linear Models - Regression and Ridge]]
 - [[Lasso Regularization and Application]]

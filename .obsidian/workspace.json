@@ -1,0 +1,347 @@
+{
+  "main": {
+    "id": "f1614601a1b5da4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "453145cd757989f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2be75d40001e3e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Cybersecurity/Network Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Security"
+            }
+          },
+          {
+            "id": "4c344d8fd66d3eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Cybersecurity/Network Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Security"
+            }
+          },
+          {
+            "id": "22567f25cac1c816",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Network Security Electronic Mail Security Unit 6.canvas",
+                "viewState": {
+                  "x": 1598.9107960785948,
+                  "y": -579.6223179661508,
+                  "zoom": -0.5092591992866864
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Network Security Electronic Mail Security Unit 6"
+            }
+          },
+          {
+            "id": "e505f54bb12816ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML/Introduction to Neural Networks/Unit 6/Automatic Intrusion Detection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automatic Intrusion Detection"
+            }
+          },
+          {
+            "id": "bdcb5392d1b5d7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML/_Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Index"
+            }
+          },
+          {
+            "id": "c9c1bd7e8a6aaebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML/Introduction to Neural Networks/Unit 3/Lasso Regularization and Application.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lasso Regularization and Application"
+            }
+          },
+          {
+            "id": "868563dd9e1ac0e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML/_Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Index"
+            }
+          },
+          {
+            "id": "34b0837b16c781e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic Overview of Supervised learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Overview of Supervised learning"
+            }
+          },
+          {
+            "id": "5f3da81d3d996ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML/Introduction to Neural Networks/Unit 3/Classification and Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classification and Regression"
+            }
+          },
+          {
+            "id": "29a239bba2220f5f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Supervised Model.canvas",
+                "viewState": {
+                  "x": 941.3121583022564,
+                  "y": 201.78050864356334,
+                  "zoom": -0.8333333117174517
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Supervised Model"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c2a55dac5bbdd0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "517aa6de293e8aa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01520e5bfbf14c22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "24879aa4106a8fac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "adjustment",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b9cbc86141ff54c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f3c728a9dcb2dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4cd0e9d4bd45321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e2452c569634804",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Network Security Electronic Mail Security Unit 6.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Network Security Electronic Mail Security Unit 6"
+            }
+          },
+          {
+            "id": "4e042f5e41512d36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Network Security Electronic Mail Security Unit 6.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Network Security Electronic Mail Security Unit 6"
+            }
+          },
+          {
+            "id": "eaae7146b3282e8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2b50e4e2d242a0e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d48ddcb40648c726",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Network Security Electronic Mail Security Unit 6.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Network Security Electronic Mail Security Unit 6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5f3da81d3d996ae7",
+  "lastOpenFiles": [
+    "Supervised Model.canvas",
+    "AIML/Introduction to Neural Networks/Unit 3/Classification and Regression.md",
+    "Su.md",
+    "AIML/Introduction to Neural Networks/Unit 3/Linear Models - Regression and Ridge.md",
+    "Basic Overview of Supervised learning.md",
+    "AIML/_Index.md",
+    "AIML/Introduction to Neural Networks/Unit 3/Lasso Regularization and Application.md",
+    "AIML/Introduction to Neural Networks/Unit 6/Single Perceptron Construction and Operation.md",
+    "AIML/Introduction to Neural Networks/Unit 3",
+    "AIML/Introduction to Neural Networks/Unit 6/Automatic Intrusion Detection.md",
+    "AIML/Introduction to Neural Networks/Unit 6",
+    "AIML/Introduction to Neural Networks/Unit 6/Introduction to Neural Networks.md",
+    "AIML/Introduction to Neural Networks/Unit 6/Deep Learning Basics.md",
+    "AIML/Introduction to Neural Networks/Unit 6/Generative Adversarial Networks (GAN).md",
+    "Network Security Electronic Mail Security Unit 6.canvas",
+    "Network Cybersecurity/Unit 6/S-MIME.md",
+    "Network Cybersecurity/Unit 6/Pretty Good Privacy (PGP).md",
+    "Network Cybersecurity/Network Security.md",
+    "Network Cybersecurity/Unit 6/Introduction to Mail protocols.md",
+    "Principles of Information Security by Whitman, Michael Mattord, Herbert (z-lib.org).pdf",
+    "Untitled.md",
+    "Network Cybersecurity/Unit 6/DomainKeys Identified Mail (DKIM).md",
+    "Network Cybersecurity/Unit 6/DNSSEC.md",
+    "Network Cybersecurity/Unit 6/DANE.md",
+    "UNIT 7/Authentication Basics and Passwords.md"
+  ]
+}

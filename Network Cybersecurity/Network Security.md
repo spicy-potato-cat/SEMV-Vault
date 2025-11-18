@@ -40,7 +40,7 @@
 
 ### **Unit-6 Electronic Mail Security**
 
-- [[Misc]]
+- [[Introduction to Mail protocols]]
 - [[Pretty Good Privacy (PGP)]]
 - [[S-MIME]]
 - [[DNSSEC]]
