@@ -16,11 +16,11 @@
 - [[Types of Data and Sources]]
 - [[Data Quality]]
 - [[Feature Creation and Data Transformation]]
-- [[Dimensionality Reduction: PCA]]
+- [[Dimensionality Reduction PCA]]
 
 #### Unit 3: Supervised Learning
-- [[Basic Overview of Supervised learning]]
-- [[Classification and Regression]]
+
+- [[Classification vs Regression]]
 - [[Polynomial Regression]]
 - [[Linear Models - Regression and Ridge]]
 - [[Lasso Regularization and Application]]
@@ -36,7 +36,7 @@
 
 #### Unit 5: Unsupervised Learning
 
-- [[Clustering: k-means]]
+- [[Clustering k-means]]
 - [[Agglomerative Clustering]]
 - [[Density-Based Clustering (DBSCAN)]]
 - [[Comparison of Clustering Algorithms]]

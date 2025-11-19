@@ -1,21 +1,21 @@
 {
 	"nodes":[
-		{"id":"5f9453950832eb20","x":1100,"y":-3300,"width":1260,"height":1200,"type":"group","label":"PGP"},
-		{"id":"3c5dac66f67dcc1e","type":"text","text":"\n![[Introduction to Mail protocols#E-mail Components]]","x":-320,"y":151,"width":800,"height":1089,"color":"6"},
-		{"id":"80288c255cee0f0d","type":"text","text":"# Two Types of Email Protocols","x":-120,"y":1400,"width":400,"height":50,"color":"6"},
+		{"id":"5f9453950832eb20","type":"group","x":1100,"y":-3300,"width":1260,"height":1200,"label":"PGP"},
 		{"id":"951833da9cd0d0e9","type":"text","text":"![[Introduction to Mail protocols#SMTP]]","x":-1600,"y":1660,"width":1260,"height":836,"color":"6"},
 		{"id":"acf539b5f396c0e0","type":"text","text":"# Mail Access Protocol","x":580,"y":1630,"width":560,"height":60,"color":"6"},
 		{"id":"36543dfeb3d7a4b5","type":"text","text":"![[Introduction to Mail protocols#POP3]]","x":-60,"y":1960,"width":554,"height":310,"color":"6"},
 		{"id":"aca2bf4215ad54fc","type":"text","text":"![[Introduction to Mail protocols#IMAP]]","x":570,"y":1960,"width":580,"height":310,"color":"6"},
-		{"id":"219a93fe1f15f4a2","type":"text","text":"![[Introduction to Mail protocols#Email Formats]]","x":740,"y":330,"width":671,"height":731,"color":"6"},
-		{"id":"d275a8d11e2518ca","type":"text","text":"# Mail Security\n","x":-45,"y":-240,"width":250,"height":130},
-		{"id":"b48eb1636c0957f4","type":"text","text":"![[Introduction to Mail protocols#E-mail Threats and E-mail Security]]\n","x":740,"y":1130,"width":653,"height":220,"color":"6"},
 		{"id":"c506cf18b29ab624","type":"text","text":"# Ways to secure Email","x":626,"y":-481,"width":314,"height":81},
 		{"id":"826008faa5fb94ef","type":"text","text":"![[Pretty Good Privacy (PGP)#Flow of events]]\n","x":1560,"y":-3260,"width":642,"height":617},
 		{"id":"2193425494dea378","type":"text","text":"# PGP","x":1120,"y":-2673,"width":250,"height":60},
 		{"id":"56c8b3a687afec73","type":"text","text":"![[Pretty Good Privacy (PGP)#Key Distribution]]","x":1553,"y":-2612,"width":649,"height":199},
 		{"id":"ef12773ba0c33c31","type":"text","text":"![[Pretty Good Privacy (PGP)#Key Differences]]\n![[Pretty Good Privacy (PGP)#Key Certification]]","x":1553,"y":-2360,"width":704,"height":520},
-		{"id":"8bedb170c0126de9","x":1160,"y":-1000,"width":250,"height":60,"type":"text","text":"# S/MIME"}
+		{"id":"80288c255cee0f0d","type":"text","text":"# Two Types of Email Protocols","x":-120,"y":1400,"width":400,"height":50,"color":"6"},
+		{"id":"219a93fe1f15f4a2","type":"text","text":"![[Introduction to Mail protocols#Email Formats]]","x":740,"y":330,"width":671,"height":731,"color":"6"},
+		{"id":"d275a8d11e2518ca","type":"text","text":"# Mail Security\n","x":-45,"y":-240,"width":250,"height":130},
+		{"id":"b48eb1636c0957f4","type":"text","text":"![[Introduction to Mail protocols#E-mail Threats and E-mail Security]]\n","x":740,"y":1130,"width":653,"height":220,"color":"6"},
+		{"id":"8bedb170c0126de9","type":"text","text":"# S/MIME","x":1160,"y":-1000,"width":250,"height":60},
+		{"id":"3c5dac66f67dcc1e","type":"text","text":"\n![[Introduction to Mail protocols#E-mail Components]]","x":-970,"y":-240,"width":800,"height":1089,"color":"6"}
 	],
 	"edges":[
 		{"id":"8ad39eb64b2031f9","fromNode":"d275a8d11e2518ca","fromSide":"bottom","toNode":"3c5dac66f67dcc1e","toSide":"top"},

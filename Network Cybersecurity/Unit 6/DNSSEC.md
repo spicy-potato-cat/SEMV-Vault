@@ -28,7 +28,7 @@ records (RRs) that include the name, IP address, and other information about hos
 
 ## DNSSEC 
 DNSSEC provides end-to-end protection through the use of digital signatures that are created by zone admins and are verified by the recipient's resolver.
-![[IMG-20251117143944598.png| 600]]
+![[Pasted image 20251112140119.png| 600]]
 ```
 Root (.)
  └── signs DS record for .com
