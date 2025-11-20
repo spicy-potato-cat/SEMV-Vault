@@ -4,10 +4,10 @@ The following characteristics of Web usage suggests the need for web security
 3. Laymen users are a common type of customers to most kind of web applications. These users may not be necessarily aware of the security risks that exists.
 
 ## Threats on the Web
-![[IMG-20251119182523819.png|600]]
+![[IMG-20251121000527651.png|600]]
 
 ## Security Mechanism layered within TCP/IP stack
-![[IMG-20251119185919378.png|600]]
+![[IMG-20251121000527701.png|600]]
 **(a) Network-Level Security**
 - Uses **IPSec** at the IP layer to secure all traffic regardless of application.
 - Transparent to applications but requires system-level configuration.

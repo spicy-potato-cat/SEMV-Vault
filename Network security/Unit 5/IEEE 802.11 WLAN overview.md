@@ -5,11 +5,11 @@
 
 - A set of stations controlled by a single coordination function.
 - Coordination function The logical function that determines when a station operating within a BSS is permitted to transmit and may be able to receive PDUs.
-![[IMG-20251119154126253.png|400]]
+![[IMG-20251121000527650.png|400]]
 
 ## Extended Service Set
 - A set of one or more interconnected BSSs and integrated LANs that appear as a single BSS to the LLC layer at any station associated with one of these BSSs.
-![[IMG-20251119154126332.png|400]]
+![[IMG-20251121000527699.png|400]]
 
 ## Access point (AP)
 Any entity that has station functionality and provides access to the distribution system via the wireless medium for associated stations.
@@ -33,4 +33,4 @@ Information that is delivered as a unit between MAC users. Station Any device th
 
 # Services
 
-![[IMG-20251119154126402.png]]
+![[IMG-20251121000528022.png]]
