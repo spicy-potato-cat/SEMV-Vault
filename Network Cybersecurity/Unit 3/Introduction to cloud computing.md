@@ -1,4 +1,4 @@
-# Cloud Computing — Concise Notes
+# Cloud Computing 
 
 ## Overview
 
@@ -46,7 +46,7 @@ Defines the roles and relationships among cloud entities to standardize understa
 
 * **Service Intermediation** – Adds value through performance monitoring, identity management, or security.
 * **Service Aggregation** – Combines multiple services for performance or cost optimization.
-* **Service Arbitrage** – Dynamically selects from multiple providers for best results.
+* **Service Arbitrage** – Buy from one source Sell at another.
 
 ### Auditor Role
 

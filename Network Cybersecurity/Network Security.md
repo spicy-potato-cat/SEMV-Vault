@@ -19,15 +19,15 @@
 - [[Data protection in the cloud]]
 - [[Cloud security as a service]]
 - [[Types of hypervisors]]
-- [[Virtualization security]]
-- [[Infrastructure as code]]
+- [[Virtualization security]]  
+- [[Virtualization security#Infrastructure as a code ( IaC )|Infrastructure as code]]
 - [[Security concerns for virtual environments]]
 
 ### **Unit-4 Transport-Level Security**
 
 - [[Web Security Considerations]]
-- [[Secure Sockets Layer (SSL)]]
-- [[Transport Layer Security (TLS)]]
+- [[SSL and TLS#SSL|Secure Sockets Layer (SSL)]]
+- [[SSL and TLS#TLS|Transport Layer Security (TLS)]]
 - [[HTTPS standard]]
 - [[Secure Shell (SSH) application]]
 
