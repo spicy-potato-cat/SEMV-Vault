@@ -31,7 +31,7 @@ Unit 5
 	[[Database Disclosure]]
 Unit 6
 	[[Authentication Basics and Passwords]]
-	[[Types of Authentication Systems]]
+	[[SEM V/Cybersecurity Fundamentals/UNIT 3/Types of Authentication Systems|Types of Authentication Systems]]
 	[[Kerberos and SSO approaches]]
 	[[Multi Factor Authentication]]
 	[[Attacks on Authentication Schemes]]

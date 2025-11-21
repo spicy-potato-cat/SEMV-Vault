@@ -26,11 +26,11 @@ Intrusion is when someone tries to ==break in, misuse, or exploit== your system.
 		-> Type of threat detected
 		-> Severity of threat
 
-****False Attack Stimulus**:** refers to harmless activity that was falsely identified as a threat. The IDPS thinks that the system is getting intruded but it is just a legitimate activity performed by an authorized user.
+***False Attack Stimulus:*** refers to harmless activity that was falsely identified as a threat. The IDPS thinks that the system is getting intruded but it is just a legitimate activity performed by an authorized user.
 
-****False Negative**:** happens when a harmful activity that was flagged as safe by the IDPS. It can be caused due to several reasons like outdated IDPS, Poorly formed security policies by the organization or zero day exploits
+***False Negative:** happens when a harmful activity that was flagged as safe by the IDPS. It can be caused due to several reasons like outdated IDPS, Poorly formed security policies by the organization or zero day exploits
 
-****False Positive**:** happens when a non-harmful legitimate activity was flagged as harmful by the IDPS. This causes False Attack Stimulus to the system which can cause security personnel to get involved in investigating the activity wasting organization's resources for a threat that doesn't even exist.
+***False Positive:*** happens when a non-harmful legitimate activity was flagged as harmful by the IDPS. This causes False Attack Stimulus to the system which can cause security personnel to get involved in investigating the activity wasting organization's resources for a threat that doesn't even exist.
 
 **Noise:** refers to a set of events that are irrelevant, redundant or are just low-value alerts that are cluttering the logs of IDPS making it harder for security personnel to identify the real and more severe threats
 

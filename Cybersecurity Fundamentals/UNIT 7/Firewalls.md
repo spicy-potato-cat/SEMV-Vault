@@ -14,7 +14,7 @@ Depends on how it processes the traffic to block traffic
 **Method** : Examines the
 - header information of a packet.
 - Source IP
-- Destination
+- Destination 
 - Protocol
 **Installed on** : TCP / IP based Network
 **Functions on** : Network Layer ( OSI Model ) / IP Layer ( TCP IP )
@@ -106,13 +106,13 @@ Architecture : Packet filtering router is the method to deny or allow request. P
 Benefits : Caching of frequently accessed pages
 
 ### Screened Subnet Architecture With DMZ
-Dominant architecture in todays network. Basically a [[#Screen Host Architecture| Screened Host Architecture]] with a DMZ. 
+Dominant architecture in todays network. Basically a [[#Screen Host Architecture|Screened Host Architecture]] with a DMZ. 
 
 Basically the webserver or the front endpoints are going to be exposed to the users. The DMZ sits between two firewalls and the internal network sits after the internal firewall. 
 Refer Diagram
 
 
-## Eras/ Generation
+## Eras/Generation
 - Generations
 	- First Generation : Static Filtering 
 	- Second Generation : Application Firewall
