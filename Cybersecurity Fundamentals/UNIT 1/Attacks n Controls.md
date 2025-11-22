@@ -54,6 +54,7 @@ NIST CSF 2.0 is a framework that provides guidance to industry, government agenc
 - CSF Tiers
 	- Classify cybersecurity risks management rigor
 	- Provides context for risk views and processes
+	![[Pasted image 20251121190937.png|600]]
 
 
 #### Steps for creating and using a CSF organizational profile
@@ -62,3 +63,4 @@ NIST CSF 2.0 is a framework that provides guidance to industry, government agenc
 3. Create the organizational profile
 4. Analyze gaps and create actions plan
 5. Implement action plan and update profile
+

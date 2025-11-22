@@ -33,9 +33,9 @@ Feature engineering is the process of transforming raw data into meaningful feat
 
 ### 1. Encoding
 - **One-Hot Encoding**: Convert categorical values into binary vectors.
-	![[Pasted image 20251118181114.png|300]]
+	![[IMG-20251122134905862.png|300]]
 - **Label Encoding**: Assign integer values to categories.
-	![[Pasted image 20251118181021.png|300]]
+	![[IMG-20251122134905983.png|300]]
 
 ### 2. Scaling and Normalization
 - **Min-Max Scaling(Normalization)**: Scale values to a fixed range (e.g., [0,1]).
