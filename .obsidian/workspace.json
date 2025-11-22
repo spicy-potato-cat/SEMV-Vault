@@ -4,157 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "453145cd757989f7",
+        "id": "a2b4fcc7e965c4cf",
         "type": "tabs",
         "children": [
           {
-            "id": "2be75d40001e3e3a",
+            "id": "5485da782d4e7d48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Cybersecurity/Network Security.md",
+                "file": "Attacks on Authentication Schemes.md",
                 "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network Security"
-            }
-          },
-          {
-            "id": "4c344d8fd66d3eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Cybersecurity/Network Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network Security"
-            }
-          },
-          {
-            "id": "22567f25cac1c816",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Network Security Electronic Mail Security Unit 6.canvas",
-                "viewState": {
-                  "x": 1598.9107960785948,
-                  "y": -579.6223179661508,
-                  "zoom": -0.5092591992866864
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Network Security Electronic Mail Security Unit 6"
-            }
-          },
-          {
-            "id": "e505f54bb12816ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIML/Introduction to Neural Networks/Unit 6/Automatic Intrusion Detection.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Automatic Intrusion Detection"
-            }
-          },
-          {
-            "id": "bdcb5392d1b5d7b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIML/_Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_Index"
-            }
-          },
-          {
-            "id": "c9c1bd7e8a6aaebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIML/Introduction to Neural Networks/Unit 3/Lasso Regularization and Application.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lasso Regularization and Application"
-            }
-          },
-          {
-            "id": "868563dd9e1ac0e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIML/_Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_Index"
-            }
-          },
-          {
-            "id": "34b0837b16c781e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic Overview of Supervised learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basic Overview of Supervised learning"
-            }
-          },
-          {
-            "id": "5f3da81d3d996ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIML/Introduction to Neural Networks/Unit 3/Classification and Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classification and Regression"
-            }
-          },
-          {
-            "id": "29a239bba2220f5f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Supervised Model.canvas",
-                "viewState": {
-                  "x": 941.3121583022564,
-                  "y": 201.78050864356334,
-                  "zoom": -0.8333333117174517
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Supervised Model"
+              "title": "Attacks on Authentication Schemes"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -313,35 +190,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "system3-relay:Relay": false
     }
   },
-  "active": "5f3da81d3d996ae7",
+  "active": "5485da782d4e7d48",
   "lastOpenFiles": [
-    "Supervised Model.canvas",
-    "AIML/Introduction to Neural Networks/Unit 3/Classification and Regression.md",
-    "Su.md",
-    "AIML/Introduction to Neural Networks/Unit 3/Linear Models - Regression and Ridge.md",
-    "Basic Overview of Supervised learning.md",
-    "AIML/_Index.md",
-    "AIML/Introduction to Neural Networks/Unit 3/Lasso Regularization and Application.md",
-    "AIML/Introduction to Neural Networks/Unit 6/Single Perceptron Construction and Operation.md",
-    "AIML/Introduction to Neural Networks/Unit 3",
-    "AIML/Introduction to Neural Networks/Unit 6/Automatic Intrusion Detection.md",
-    "AIML/Introduction to Neural Networks/Unit 6",
-    "AIML/Introduction to Neural Networks/Unit 6/Introduction to Neural Networks.md",
-    "AIML/Introduction to Neural Networks/Unit 6/Deep Learning Basics.md",
-    "AIML/Introduction to Neural Networks/Unit 6/Generative Adversarial Networks (GAN).md",
+    "Cybersecurity Fundamentals/_Cybersecurity Fundamentals Index.md",
+    "Multi Factor Authentication.md",
+    "Basic Components and Characteristics of Information.md",
+    "Cybersecurity Fundamentals/UNIT 1/Introduction to CF.md",
+    "Cybersecurity Fundamentals/UNIT 6/Authentication Basics and Passwords.md",
+    "Access control principles, DAC, MAC.md",
     "Network Security Electronic Mail Security Unit 6.canvas",
-    "Network Cybersecurity/Unit 6/S-MIME.md",
-    "Network Cybersecurity/Unit 6/Pretty Good Privacy (PGP).md",
-    "Network Cybersecurity/Network Security.md",
-    "Network Cybersecurity/Unit 6/Introduction to Mail protocols.md",
-    "Principles of Information Security by Whitman, Michael Mattord, Herbert (z-lib.org).pdf",
-    "Untitled.md",
-    "Network Cybersecurity/Unit 6/DomainKeys Identified Mail (DKIM).md",
-    "Network Cybersecurity/Unit 6/DNSSEC.md",
-    "Network Cybersecurity/Unit 6/DANE.md",
-    "UNIT 7/Authentication Basics and Passwords.md"
+    "Network security/Network Security.md",
+    "Supervised Model.canvas",
+    "Basic Overview of Supervised learning.md",
+    "AIML/Introduction to Neural Networks/Unit 3/Lasso Regularization and Application.md",
+    "Introduction to CF.md",
+    "Cybersecurity Fundamentals/UNIT 1/Mitre Attack Framework.md",
+    "_SEM V_.md",
+    "Software Engineering/_Software Engineering Index.md",
+    "Network security/_Network Security Index.md",
+    "Cybersecurity Fundamentals/UNIT 3/Types of Authentication Systems.md",
+    "Cybersecurity Fundamentals/UNIT 1/Vulnerabilities and threats.md",
+    "Cybersecurity Fundamentals/UNIT 1/Goals of Security.md",
+    "Cybersecurity Fundamentals/UNIT 1/Cyber Kill chain.md",
+    "Cybersecurity Fundamentals/UNIT 1/Basic Components and Characteristics of Information.md",
+    "Cybersecurity Fundamentals/UNIT 1/Attacks n Controls.md",
+    "Cybersecurity Fundamentals/Cybersecurity Fundamentals PYQs.md",
+    "AIML/_AIML Index.md",
+    "Cybersecurity Fundamentals/UNIT 7/SIEM.md",
+    "Cybersecurity Fundamentals/UNIT 7/Firewalls.md",
+    "DMZ.md",
+    "Policies on Proxies.md",
+    "Pasted image 20251121125316.png",
+    "Network security/Unit 6/S-MIME/IMG-20251121000527647.png",
+    "Network security/Unit 6/DNSSEC/IMG-20251117143944598.png",
+    "Network security/Unit 6/DomainKeys Identified Mail (DKIM)/IMG-20251121000527641.png",
+    "Network security/Unit 5/IEEE 802.11 WLAN overview/IMG-20251121000528022.png",
+    "Network security/Unit 5/IEEE 802.11 WLAN overview/IMG-20251121000527699.png",
+    "Network security/Unit 5/IEEE 802.11 WLAN overview/IMG-20251121000527650.png",
+    "Network security/Unit 4/Web Security Considerations/IMG-20251121000527701.png",
+    "Network security/Unit 4/Web Security Considerations/IMG-20251121000527651.png",
+    "Network security/Unit 6/S-MIME",
+    "Network security/Unit 6/DNSSEC",
+    "Network security/Unit 6/DomainKeys Identified Mail (DKIM)",
+    "Network security/Unit 5/IEEE 802.11 WLAN overview",
+    "Network security/Unit 4/Web Security Considerations",
+    "Network security/Unit 7",
+    "Network security/Unit 6",
+    "Network security/Unit 5",
+    "Network security/Unit 4",
+    "Network security/Unit 3",
+    "Network Cybersecurity/Unit 5/IEEE 802.11 WLAN overview/IMG-20251119154126332.png"
   ]
 }
