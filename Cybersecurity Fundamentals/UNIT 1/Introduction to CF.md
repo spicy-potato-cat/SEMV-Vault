@@ -1,6 +1,6 @@
 Cybersecurity is a collection of tools, policies, security concepts, actions, training, best practices and technologies that can be used to protect a cyber environment and assets of a organization.
 
-**Assets** for a organization and users include computing devices(servers, computers, mobile devices), personnel, infrastructure(network, hardware, cloud services), application services, and the totality of transmitted or stored data.
+**Assets** for an organization and users include computing devices(servers, computers, mobile devices), personnel, infrastructure(network, hardware, cloud services), application services, and the totality of transmitted or stored data.
 
 Cybersecurity strives to ensure the **attainment and maintenance** of the security properties of an organization and user's asset against relevant security risks. The general objective of Cybersecurity is:
 1. Confidentiality: Sensitive assets and processes of an organization should remain confidential. The goal is to only let authorized personnel/users to have access to Sensitive assets and processes that takes place in an organization 

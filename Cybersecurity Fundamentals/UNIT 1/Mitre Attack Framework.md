@@ -15,7 +15,6 @@ MITRE ATT&CK is a knowledge base of adversary tactics and techniques based on re
     
 4. **Procedures**  
     Real-world implementations of techniques by threat groups or malware.
-    
 
 ## Use Cases
 

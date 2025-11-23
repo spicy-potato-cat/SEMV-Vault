@@ -1,4 +1,4 @@
-
+	
 - Identification is the act of asserting who a person is.
 - Authentication is proving that asserted identity.
 
@@ -27,13 +27,14 @@ A password is a sequence of characters (e.g., 10 digits, strings of letters) or 
 - **Storage Methods:**
     - **Clear Text:** Storing passwords in clear text in the user database means they are vulnerable, as they also travel in clear text from the user's computer to the server.
     - **Message Digests (MD):** Systems often store message digests (hashes) of passwords in the user database instead of the clear text passwords. The server calculates the MD of the entered password and compares it to the stored MD.
-    - **MD Drawback:** Using MDs alone is vulnerable to a **replay attack** if the user sends their username (UN) and the calculated MD directly to the server.
-    - **Adding Entropy:**
-	    - It is the easiest way to avoid a replay attack
-	    - We basically make the server give a random nonce to the user.
-	    - The user hashes the password and hashes it again and sends it to server.
-	    - Server hashes its MD Record for the user with the nonce and checks $L$ and then the user is authenticated if the match is true.
+	    - **MD Drawback:** Using MDs alone is vulnerable to a **replay attack** if the user sends their username (UN) and the calculated MD directly to the server.
+	    - **Adding Entropy:**
+		    - It is the easiest way to avoid a replay attack
+		    - We basically make the server give a random challenge to the user.
+		    - The user hashes the password and hashes it again and sends it to server.
+		    - Server hashes its MD Record for the user with the nonce and checks $L$ and then the user is authenticated if the match is true.
 
+![[Pasted image 20251122145711.png]]
 
 
 ## **Password Selection & Attacks:**
@@ -80,8 +81,6 @@ For instance, an example using this formula seeks to find the minimum password l
 The solution calculates $N \geq TG/P = (365 \times 24 \times 60 \times 60) \times 10^4 / 0.5 \approx 6.31 \times 10^{11}$. By then choosing the length ($s$) such that the sum of possible passwords ($\Sigma_{j=0}^{s} 96^j$) is greater than or equal to $N$, the result suggests that passwords must be at least 6 characters long ($s \geq 6$).
 
 
-Got it! Here's a **concise, pointer-style version** of your notes, trimmed for an audience with short attention spans while keeping all key info:
-
 ---
 
 ### Pronounceable Passwords
@@ -92,7 +91,6 @@ Got it! Here's a **concise, pointer-style version** of your notes, trimmed for a
 * Solution: **key crunching** → hash long key → convert to printable sequence → use as password
 
 ---
-c
 ### User-Selected Passwords
 
 * People pick easy-to-guess passwords

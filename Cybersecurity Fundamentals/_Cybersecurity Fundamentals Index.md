@@ -1,5 +1,5 @@
 ### **Syllabus**
-Click [here]([Cybersecurity Fundamentals AY 2025-26 - Documents - All Documents](https://svkmmumbai.sharepoint.com/sites/CybersecurityFundamentalsAY2025-26/Shared%20Documents/Forms/AllItems.aspx)) to find Pintu Sirs Notes
+Click [here](https://svkmmumbai.sharepoint.com/sites/CybersecurityFundamentalsAY2025-26/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCybersecurityFundamentalsAY2025%2D26%2FShared%20Documents%2FTheory&viewid=2e807b2b%2D5f4e%2D405c%2D8015%2Db51d96c5d33ex) to find Pintu Sirs Notes
 Unit 1
 	[[Introduction to CF]]
 	[[Basic Components and Characteristics of Information]]

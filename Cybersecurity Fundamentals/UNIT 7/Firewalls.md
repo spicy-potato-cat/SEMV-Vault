@@ -29,7 +29,7 @@ There are **3 types**.
 	- Requires Rules to be developed and installed with the firewall
 	- Any changes are to be done by human intervention
 	- Common Easy to setup
-	- Static allow entire set of one type of packets to enter in response to authorized reuests
+	- Static allow entire set of one type of packets to enter in response to authorized requests
 
 - Dynamic Packet Filtering
 	- Can react to new emerging situations and update and create rules to deal with the event itself.

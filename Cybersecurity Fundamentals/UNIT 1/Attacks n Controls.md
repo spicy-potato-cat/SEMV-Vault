@@ -35,7 +35,7 @@ i.e.
 
 # Methods of Defense
 
-![[Pasted image 20251121143515.png|400]]
+ 
 
 ## NIST CSF 2.0
 

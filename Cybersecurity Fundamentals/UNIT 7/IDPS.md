@@ -122,10 +122,9 @@ HIDPS or an HIDPS Sensor Resides on a particular computer or a server. AKA syste
 
 ### IDPS Detection Methods
 
-- Signature based detection:
-	- 
-- Anomaly based detection: 
-- Stateful protocol analysis:
+- Signature based detection
+- Anomaly based detection 
+- Stateful protocol analysis
 #### Signature Based Detection
 - Method : Foot printing and fingerprinting analysis.
 - Function : Exploits use a specific attack sequence to take advantage of vulnerability. 
