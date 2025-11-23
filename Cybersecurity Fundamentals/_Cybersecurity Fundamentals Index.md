@@ -46,17 +46,6 @@ Unit 7
 	**[[VPNS]]**
 	**[[SIEM]]**
 
+### References
 
-### **CF Marks Distribution**
-
-Unit 1: 25-35 marks
-Unit 2: 10-20 marks
-Unit 3: 15-25 marks
-Unit 4: 5-10 marks
-Unit 5: 5-10 marks
-Unit 6: 20-30 marks
-Unit 7: 25-35 marks
-
-## References
-
-[1]. [Security in Computing](https://eopcw.com/assets/stores/Computer%20Security/lecturenote_1704978481security-in-computing-5-e.pdf)
+1. [Security in Computing (5th Edition)](https://eopcw.com/assets/stores/Computer%20Security/lecturenote_1704978481security-in-computing-5-e.pdf)
