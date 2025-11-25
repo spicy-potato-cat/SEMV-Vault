@@ -1,4 +1,4 @@
-
+       
 # Security Information and Event Management
 
 ***Definition:*** SIEM is a suite of tools and services that provide a comprehensive view of an organization's information security posture.

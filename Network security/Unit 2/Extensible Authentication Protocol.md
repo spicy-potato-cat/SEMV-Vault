@@ -1,4 +1,4 @@
-EAP is the framework used for Network Access and Authentication Protocols.
+EEAP is the framework used for Network Access and Authentication Protocols.
 
 **Purpose:**
 - Provides set of protocol messages

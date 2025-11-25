@@ -1,4 +1,4 @@
-Cybersecurity is a collection of tools, policies, security concepts, actions, training, best practices and technologies that can be used to protect a cyber environment and assets of a organization.
+	Cybersecurity is a collection of tools, policies, security concepts, actions, training, best practices and technologies that can be used to protect a cyber environment and assets of a organization.
 
 **Assets** for an organization and users include computing devices(servers, computers, mobile devices), personnel, infrastructure(network, hardware, cloud services), application services, and the totality of transmitted or stored data.
 

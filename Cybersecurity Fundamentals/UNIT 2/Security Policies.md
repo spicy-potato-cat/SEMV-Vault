@@ -1,4 +1,4 @@
-	# **Information Security Policies – Notes**
+# **Information Security Policies – Notes**
 
 The cornerstone of any security effort is:
 
@@ -298,21 +298,3 @@ C. Acceptable use policy
 D. Confidentiality policy
 
 **Correct Answer: C – Acceptable Use Policy**
-
----
-
-# **Exercise**
-
-You are CIO for SVKM Group. Students use a leased line for Internet access. Some students are using P2P networks to download copyrighted material.
-Management asks you to **create an Internet Usage Policy** for the institution.
-
-(If you want, I can write the full Internet Usage Policy next.)
-
----
-
-If you'd like, I can now prepare:
-
-✅ a clean **Internet Usage Policy**
-✅ a **cheat sheet** of all policy types
-✅ exam-ready **3/5/10-mark answers**
-Just tell me.

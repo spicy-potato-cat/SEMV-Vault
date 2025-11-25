@@ -21,7 +21,7 @@ Function:
 	- The NAS Functions as an endpoint for people in remote locations connecting to an enterprise's internal network.
 	- AKA 
 		- Media Gateway
-		- Remote Access Serer
+		- Remote Access Server
 
 ![[Pasted image 20251113113735.png]]
 

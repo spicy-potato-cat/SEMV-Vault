@@ -1,9 +1,9 @@
-Security in the Design of Operating Systems  Simplicity of Design  Layered Design  Kernelized Design  Reference Monitor  Correctness and Completeness  Secure Design Principles  Trusted Systems 12 Pintu R Shah MPSTME SVKM
+Security in the Design of Operating Systems  Simplicity of Design  Layered Design  Kernelized Design  Reference Monitor  Correctness and Completeness  Secure Design Principles  Trusted Systems 
 
 ## Security kernel
 
 - **Coverage** Checking every access THROUGH the kernel
-- **Seperation** Isolate mechanisms to ensure security from OS
+- **Separation** Isolate mechanisms to ensure security from OS
 - **Unity** All sec functions tossed in together in a single blob of code to debug quicker?
 - **Modifiability** Make modification in security functions easier.
 - **Compactness** Make security kernel small because its only responsible for security functions
@@ -13,7 +13,7 @@ Security in the Design of Operating Systems  Simplicity of Design  Layered
 
 - Tamper Proof
 	- Impossible to weaken/disable
-- Unbypassable
+- Un-bypass able
 	- Shouldn't be able to bypass this function
 - Analyzable
 	- Ensuring it is secure

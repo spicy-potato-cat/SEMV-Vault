@@ -14,6 +14,11 @@ The value of the information is determined by the characteristics it possesses.
 1. Confidentiality
 2. Integrity
 3. Availability
+	1. Timely Request response
+	2. No starvation
+	3. Easy to use
+	4. Controlled COncurrency
+	5. Fault Tolerant
 4. Authenticity
 5. Authorization
 6. Non Repudiation

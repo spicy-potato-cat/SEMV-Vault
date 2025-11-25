@@ -1,4 +1,4 @@
-# **Common Security Principles**
+~# **Common Security Principles**
 
 We will talk about some widely enforced security principles that organizations use to strengthen their systems and reduce vulnerabilities.
 

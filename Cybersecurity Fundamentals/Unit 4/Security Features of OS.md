@@ -1,7 +1,7 @@
-## Seccurity Features of ordinary operating systems
+## Security Features of ordinary operating systems
 
 - Enforced Sharing
-- Interprocess Communication and synchronization
+- Inter-process Communication and synchronization
 - Protection of critical operating system data
 - Guaranteed fair service
 - Interface to hardware
@@ -17,10 +17,10 @@ Add image
 
 - Physically separate processes that uses different hardware.
 	- Such as printers
-- Temporal Seperation
+- Temporal Separation
 	- Processes with different security levels are executed at different times than each other so that one cannot inject into a high security process.
-- Logical Seperation
-	- Process is executed in such a way that it is isolated and segmented from all the other processes in a way that it thinks that there are no other proceses.
+- Logical Separation
+	- Process is executed in such a way that it is isolated and segmented from all the other processes in a way that it thinks that there are no other processes.
 - Cryptographic Separation
 	- Processes are encrypting their own data adding processing overhead but ensuring security.
 - Share All or Share Nothing
